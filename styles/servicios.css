@@ -92,3 +92,12 @@ footer img{
     flex-direction: column;
     padding-bottom: 10px;
 }
+
+@media (max-width: 1300px) {
+    
+    .contenedor{
+        width: 70%;
+        align-items: center;
+    }
+
+}
